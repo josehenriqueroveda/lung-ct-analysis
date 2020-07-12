@@ -1,5 +1,7 @@
 # Lung CT images visualization
 
+> Check the Medium article: [Read the article](https://medium.com/@zeh.henrique92/basic-exploration-and-visualization-of-lung-ct-scans-with-python-e86b8d665bb6?source=friends_link&sk=0cc8b8817968bf5cc40855a1309d7ba1)
+
 Computed tomography (CT) of the chest uses special x-ray equipment to examine abnormalities found in other imaging tests and to help diagnose the cause of unexplained cough, shortness of breath, chest pain, fever and other chest symptoms. CT scanning is fast, painless, noninvasive and accurate. Because it is able to detect very small nodules in the lung, chest CT is especially effective for diagnosing lung cancer at its earliest, most curable stage.
 
 ## About DICOM
