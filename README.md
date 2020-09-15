@@ -18,5 +18,7 @@ The Cancer Genome Atlas Lung Adenocarcinoma (TCGA-LUAD) data collection is part 
 - [Python3](https://www.python.org/)
 - [Jupyter](https://jupyter.org/)
 
-**Liked it?**
-Find me on [LinkedIn](https://www.linkedin.com/in/jhroveda/)
+### About:
+
+> - 💻 **José Henrique Roveda**
+> - 📨 Contact me on [LinkedIn](https://www.linkedin.com/in/jhroveda/)
